@@ -1,7 +1,7 @@
 /**
  * Models a match between two teams.
  * 
- * @author Guangming Chen 21664707
+ * @author Dennis Chen
  * @version v1.0
  */
  
