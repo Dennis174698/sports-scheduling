@@ -1,7 +1,7 @@
 /**
  * Models a round of matches in a league schedule.
  * 
- * @author Guangming Chen 21664707
+ * @author Dennis Chen
  * @version v1.0
  */
 import java.util.ArrayList;
