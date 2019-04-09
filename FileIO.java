@@ -8,7 +8,7 @@
  * filename = "f.txt" 
  * lines = <"abc", "de", "", "gh">
  * 
- * Guangming Chen, 2019
+ * Dennis Chen
  */
 
 import java.io.*;
