@@ -1,7 +1,7 @@
 /**
  * Models a league with a set of teams and a schedule of matches between them
  * 
- * @author Guangming Chen 21664707
+ * @author Dennis Chen 
  * @version v1.0
  * Simply using makeSchedule()and print()to see the output, with the input of
  * noOfTeams or filename(please add""with filename if it returns error).
